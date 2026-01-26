@@ -1,3 +1,3 @@
-# voidbr-pkgfile-template
+# voidbr-xfwm-axiom-theme
 
-Template for VoidBR pkgmake/pkgfile packages
+Inspired by the metacity theme 'fresh'. Two xfwm themes are included, axiom for bright themes and axiomd for dark
